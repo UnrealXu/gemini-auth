@@ -1,0 +1,22 @@
+{
+  "name": "gemini-auth",
+  "version": "1.0.0",
+  "description": "Multi-profile authentication and session manager for Google Antigravity desktop client",
+  "main": "bin/gemini-auth.js",
+  "type": "module",
+  "bin": {
+    "gemini-auth": "bin/gemini-auth.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "antigravity",
+    "gemini",
+    "auth",
+    "profile",
+    "multi-account"
+  ],
+  "author": "Antigravity Agent",
+  "license": "MIT"
+}
